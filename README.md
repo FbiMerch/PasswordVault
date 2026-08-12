@@ -1,6 +1,5 @@
 Iată conținutul integral al fișierului **`README.md`**. Copiază tot textul din blocul de mai jos și lipsește-l în fișierul tău `README.md` din IntelliJ (sau creează un fișier nou cu numele `README.md` în folderul proiectului).
 
-```markdown
 # 🔒 Password Vault (Java Swing & SQLite)
 
 ![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)
@@ -49,14 +48,11 @@ The project strictly follows Object-Oriented Programming (OOP) principles and se
 ## ⚙️ How to Run in IntelliJ IDEA
 
 1. **Clone the repository:**
-   ```bash
+  
    git clone [https://github.com/FbiMerch/PasswordVault.git](https://github.com/FbiMerch/PasswordVault.git)
-
-```
 
 2. **Open in IntelliJ IDEA:**
 * Open IntelliJ IDEA $\rightarrow$ **Open** $\rightarrow$ select the `PasswordVault` directory.
-
 
 3. **Add SQLite JDBC Dependency:**
 * Go to **File** $\rightarrow$ **Project Structure** $\rightarrow$ **Libraries**.
@@ -69,7 +65,6 @@ The project strictly follows Object-Oriented Programming (OOP) principles and se
 * Click the green **Run** arrow or press `Shift + F10`.
 
 
-
 ---
 
 ## 🖥️ Application Interface Overview
@@ -80,5 +75,3 @@ The project strictly follows Object-Oriented Programming (OOP) principles and se
 4. **Password Generator**: Generates strong 16-character passwords on demand.
 5. **Export**: Saves an encrypted local copy to `vault_backup.txt`.
 
-
-```
